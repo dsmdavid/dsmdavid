@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+(binews.biz)[https://www.binews.biz) is... [![Netlify Status](https://api.netlify.com/api/v1/badges/b2bc6831-2583-45bd-9847-b0070bcf67d3/deploy-status)](https://app.netlify.com/sites/tableau-aggregator/deploys)
