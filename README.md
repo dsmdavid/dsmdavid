@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm David, a data solutions consultant at [Infinite Lambda](https://infinitelambda.com/)
 
 <!--
 **dsmdavid/dsmdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![favicon](https://www.binews.biz/favicon.ico) [binews.biz](https://www.binews.biz) is... [![Netlify Status](https://api.netlify.com/api/v1/badges/b2bc6831-2583-45bd-9847-b0070bcf67d3/deploy-status)](https://app.netlify.com/sites/tableau-aggregator/deploys)
+[![dsmdaviz.com](https://img.shields.io/static/v1?label=homepage&message=dsmdaviz%20&color=f51dca&logo=jekyll&style=flat-square&logoColor=white)](https://dsmdaviz.com/)  
+<img src="https://www.binews.biz/favicon.ico" width="50" height="50" /> [binews.biz](https://www.binews.biz) is... [![Netlify Status](https://api.netlify.com/api/v1/badges/b2bc6831-2583-45bd-9847-b0070bcf67d3/deploy-status)](https://app.netlify.com/sites/tableau-aggregator/deploys)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dsmd4vid?style=social)
 
