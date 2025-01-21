@@ -34,6 +34,6 @@ I'm currently maintaining:
 <!-- [![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fdsmd4vid)](https://twitter.com/dsmd4vid)
 -->
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsmdavid&layout=compact&show_icons=true&theme=nightowl)  
-![dsmdavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsmdavid&count_private=true&show_icons=true&theme=nightowl)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsmdavid&layout=compact&show_icons=true&hide_border=true&theme=nightowl)  
+![dsmdavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsmdavid&count_private=true&show_icons=true&hide_border=true&theme=nightowl)  
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdsmdavid%2Fdsmdavid%2F&label=visitors&labelColor=%23697689&countColor=%23f51dca&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdsmdavid%2Fdsmdavid%2F)
