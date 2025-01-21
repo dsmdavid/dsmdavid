@@ -35,4 +35,5 @@ I'm currently maintaining:
 -->
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsmdavid&layout=compact&show_icons=true&theme=synthwave)  
-![dsmdavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsmdavid&count_private=true&show_icons=true&theme=synthwave)  
+![dsmdavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsmdavid&count_private=true&show_icons=true&theme=nightowl)  
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdsmdavid%2Fdsmdavid%2F&label=visitors&labelColor=%23697689&countColor=%23f51dca&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdsmdavid%2Fdsmdavid%2F)
