@@ -1,5 +1,5 @@
 [![dsmdaviz.com](https://img.shields.io/static/v1?label=homepage&message=dsmdaviz%20&color=f51dca&logo=jekyll&style=flat-square&logoColor=white)](https://dsmdaviz.com/)  
-I'm David, a data solutions consultant at [Infinite Lambda](https://infinitelambda.com/)
+I'm David, a data solutions consultant at [DataRSys](https://datarsys.co.uk/)
 
 I use these in my day job and also for fun (some):  
 ![python badge](https://img.shields.io/badge/CODE-Python-FFCE3E?style=flat-square&labelColor=14354C&logo=python&logoColor=white)
